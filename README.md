@@ -1,4 +1,4 @@
-INTERACTIVE-QUIZ-APPLICATION
+# INTERACTIVE-QUIZ-APPLICATION
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -18,7 +18,7 @@ MENTOR: NEELA SANTOSH
 
 
 
-DESCRIPTION
+# DESCRIPTION
 
 Interactive Quiz App is a dynamic, web-based quiz application designed to test users’ programming knowledge through multiple-choice questions. It fetches real-time questions from the Open Trivia Database (OpenTDB) API, providing a variety of challenging and engaging questions in the programming category.
 
@@ -53,7 +53,7 @@ Usage
 1.Open index.html in any modern web browser. 2.Read the question displayed at the top. 3.Click on the answer you believe is correct. 4.View the feedback immediately and proceed to the next question using the Next button. 5.At the end, view your total score to assess your performance.
 
 
-OUTPUT
+# OUTPUT
 
 <img width="997" height="443" alt="Image" src="https://github.com/user-attachments/assets/dd09b9aa-26db-41f9-bc7d-7b8d29632125" />
 <img width="1214" height="886" alt="Image" src="https://github.com/user-attachments/assets/ea48fd88-183e-4682-bd99-77a079b4e526" />
