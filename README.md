@@ -51,3 +51,12 @@ JavaScript: Fetches quiz data from OpenTDB API. Randomizes the answer options. H
 Usage
 
 1.Open index.html in any modern web browser. 2.Read the question displayed at the top. 3.Click on the answer you believe is correct. 4.View the feedback immediately and proceed to the next question using the Next button. 5.At the end, view your total score to assess your performance.
+
+
+OUTPUT
+
+<img width="997" height="443" alt="Image" src="https://github.com/user-attachments/assets/dd09b9aa-26db-41f9-bc7d-7b8d29632125" />
+<img width="1214" height="886" alt="Image" src="https://github.com/user-attachments/assets/ea48fd88-183e-4682-bd99-77a079b4e526" />
+<img width="932" height="857" alt="Image" src="https://github.com/user-attachments/assets/9c12c125-945d-44c2-b026-140af077f206" />
+<img width="785" height="832" alt="Image" src="https://github.com/user-attachments/assets/df86e0bd-16e0-4ae4-9ca4-d108df32eff5" />
+<img width="1001" height="577" alt="Image" src="https://github.com/user-attachments/assets/bb5fc638-3e17-4881-8e2b-b05f0af771ab" />
