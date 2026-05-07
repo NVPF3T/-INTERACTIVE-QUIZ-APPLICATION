@@ -14,6 +14,10 @@ MENTOR: NEELA SANTOSH
 
 
 
+
+
+
+
 DESCRIPTION
 
 Interactive Quiz App is a dynamic, web-based quiz application designed to test users’ programming knowledge through multiple-choice questions. It fetches real-time questions from the Open Trivia Database (OpenTDB) API, providing a variety of challenging and engaging questions in the programming category.
